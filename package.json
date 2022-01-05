@@ -1,0 +1,21 @@
+{
+  "name": "music_searcher",
+  "version": "1.0.0",
+  "description": "This is a simple music search app.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel <your entry file>",
+    "build": "parcel build <your entry file>"
+  },
+  "author": "sara",
+  "license": "MITnpm install fetch-jsonp",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "fetch-jsonp": "^1.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
